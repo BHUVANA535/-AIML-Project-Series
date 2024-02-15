@@ -1,7 +1,4 @@
-- 👋 Hi, I’m bhuvana
-- 👀 I’m interested in manhwa,manga, manhua,anime,donghua
-- 🌱 I’m currently learning coding
-- 📫 How to reach me bhuvanavijaya353@gmail.com
+
   
 
 <!---
